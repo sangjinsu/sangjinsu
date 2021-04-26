@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🌱 I’m currently learning Golang, Grpc, K8S, Docker
+- 🌱 I’m currently learning Golang, Java, Spring
 - 👯 I’m looking to collaborate on any interesting projects
 - 🤔 Skills : Javascript, Typescript, Node.js, Nest.js
 
