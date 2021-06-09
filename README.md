@@ -4,11 +4,15 @@
 - 👯 I’m looking to collaborate on any interesting projects
 - 🤔 Skills : Javascript, Typescript, Node.js, Nest.js
 
-## team Projects
+## Team Projects
 
 [e2translate.com](https://www.e2translate.com/)
 
 It is a web service that translates Korean into Eastern European languages. The purpose is to help students of the Ukrainian language department and Romanian language department of Hankuk University of Foreign Studies study hard.
+
+## Course List
+
+[(inflearn) 스프링 핵심 원리 - 기본편 / 김영한 개발자님](https://www.inflearn.com/certificate/214287-325969-2355584)
 
 
 <!--
