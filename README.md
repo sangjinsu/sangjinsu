@@ -14,6 +14,9 @@ It is a web service that translates Korean into Eastern European languages. The 
 
 [(inflearn) 스프링 핵심 원리 - 기본편 / 김영한 개발자님](https://www.inflearn.com/certificate/214287-325969-2355584)
 
+## Mathmetics
+
+[(edwith) 칸아카데미 중학교 3학년 - 통계](https://climbplant39.tistory.com/55?category=992116)
 
 <!--
 **jinsuSang/jinsuSang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
