@@ -10,6 +10,14 @@
 
 It is a web service that translates Korean into Eastern European languages. The purpose is to help students of the Ukrainian language department and Romanian language department of Hankuk University of Foreign Studies study hard.
 
+skill: Nest.js, Typescript, Javascript, HTML, CSS
+
+[Album Organization App](https://github.com/JaeEon-Ryu/BeaM4)
+
+It is an application that organizes albums based on similar photo recognition. It recommends pictures to organize and delete using OpenCV.
+
+skill: OpenCV, Android, JAVA
+
 ## Course List
 
 [(inflearn) 스프링 핵심 원리 - 기본편 / 김영한 개발자님](https://www.inflearn.com/certificate/214287-325969-2355584)
