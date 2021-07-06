@@ -22,10 +22,11 @@ skill: OpenCV, Android, JAVA
 
 [(inflearn) 스프링 핵심 원리 - 기본편 / 김영한 개발자님](https://www.inflearn.com/certificate/214287-325969-2355584)
 
-## Mathmetics
+## Mathmetics and Statistics
 
 [(edwith) 칸아카데미 중학교 3학년 - 통계](https://climbplant39.tistory.com/55?category=992116)  
-(edwith) 칸아카데미 모두를 위한 선형대수학 [블로그](https://climbplant39.tistory.com/56)
+(edwith) 칸아카데미 모두를 위한 선형대수학 [블로그](https://climbplant39.tistory.com/56)  
+[(inflearn) R로 배우는 통계](https://github.com/jinsuSang/Statistics-learned-by-R)
 
 <!--
 **jinsuSang/jinsuSang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
