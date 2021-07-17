@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🌱 I’m currently learning Golang, Java, Spring, Python
+- 🌱 I’m currently learning Golang, Python, Django
 - 👯 I’m looking to collaborate on any interesting projects
 - 🤔 Skills : Javascript, Typescript, Node.js, Nest.js
 
