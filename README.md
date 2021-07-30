@@ -25,7 +25,7 @@ skill: OpenCV, Android, JAVA
 ## Mathmetics and Statistics
 
 [(edwith) 칸아카데미 중학교 3학년 - 통계](https://climbplant39.tistory.com/55?category=992116)  
-(edwith) 칸아카데미 모두를 위한 선형대수학 [repository](https://github.com/jinsuSang/linear-algebra-for-everyone)  
+[(edwith) 칸아카데미 모두를 위한 선형대수학](https://github.com/jinsuSang/linear-algebra-for-everyone)  
 [(inflearn) R로 배우는 통계](https://github.com/jinsuSang/Statistics-learned-by-R)
 
 <!--
