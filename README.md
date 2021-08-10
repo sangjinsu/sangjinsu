@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on any interesting projects
 - 🤔 Skills : Javascript, Typescript, Node.js, Nest.js
 
-#### sponsor
+#### sponsoring
 
 open collective - nestjs open source baker
 
