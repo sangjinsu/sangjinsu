@@ -6,7 +6,7 @@
 
 #### sponsor
 
-[open collective - nestjs open source baker](https://opencollective.com/user-d292e8fc/collectives.js?role=backer)
+open collective - nestjs open source baker
 
 ## Team Projects
 
