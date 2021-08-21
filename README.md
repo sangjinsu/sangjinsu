@@ -22,6 +22,14 @@ It is an application that organizes albums based on similar photo recognition. I
 
 skill: OpenCV, Android, JAVA
 
+## Personal Projects
+
+notes command line app 
+- [golang](https://github.com/jinsuSang/notes-app) : built-in modules - flag
+- [nodejs](https://github.com/jinsuSang/note-app) : chalk, yargs
+- We can write, read, erase, and list notes in json file format
+
+
 ## Course List
 
 [(inflearn) 스프링 핵심 원리 - 기본편 / 김영한 개발자님](https://www.inflearn.com/certificate/214287-325969-2355584)
