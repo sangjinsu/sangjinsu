@@ -25,7 +25,7 @@ skill: OpenCV, Android, JAVA
 ## Personal Projects
 
 notes command line app 
-- [golang](https://github.com/jinsuSang/notes-app) : built-in modules - flag
+- [golang](https://github.com/jinsuSang/notes-app) : built-in modules - flag, my module - chalk, commands, handleerror
 - [nodejs](https://github.com/jinsuSang/note-app) : chalk, yargs
 - We can write, read, erase, and list notes in json file format
 
