@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 -->
 
 ## Activity
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsuSang&exclude_repo=JaeEon-Ryu/BeaM4,openCVFeatureMatchingList,opencvFeatureMatching)](https://github.com/jinsuSang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsuSang&exclude_repo=JaeEon-Ryu/BeaM4,openCVFeatureMatchingList,opencvFeatureMatching,jinsuSang)](https://github.com/jinsuSang/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsuSang)](https://github.com/anuraghazra/github-readme-stats)
 #### 백준 알고리즘
 [![Solved.ac
