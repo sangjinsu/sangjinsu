@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 -->
 
 ## Activity
+2020.10.19 ~ 2020.12.31 와이즈넛, SK NUGU Interactive NLU DM DB 구축 규칙 생성 아르바이트  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsuSang&exclude_repo=JaeEon-Ryu/BeaM4,openCVFeatureMatchingList,opencvFeatureMatching,jinsuSang)](https://github.com/jinsuSang/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsuSang)](https://github.com/anuraghazra/github-readme-stats)
 #### 백준 알고리즘
