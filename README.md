@@ -30,9 +30,15 @@ notes command line app
 - We can write, read, erase, and list notes in json file format
 
 
-## Course List
+## Kmooc and Course List
 
 [(inflearn) 스프링 핵심 원리 - 기본편 / 김영한 개발자님](https://www.inflearn.com/certificate/214287-325969-2355584)
+  
+[K-MOOC](https://github.com/jinsuSang/kmooc)  
+인공지능의 기초 2021.09.19~  
+언어와 인간 2021.09.11~  
+언어학과 인공지능 2021.09.19~  
+컴퓨터 네트워킹 2021.09.11~  
 
 ## Mathmetics and Statistics
 
