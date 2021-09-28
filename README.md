@@ -24,6 +24,10 @@ skill: OpenCV, Android, JAVA
 
 ## Personal Projects
 
+chalk package
+- decorate terminal and console output
+- [https://pkg.go.dev/github.com/jinsuSang/chalk](https://pkg.go.dev/github.com/jinsuSang/chalk)
+
 notes command line app 
 - [golang](https://github.com/jinsuSang/notes-app) : built-in modules - flag, my module - chalk, commands, handleerror
 - [nodejs](https://github.com/jinsuSang/note-app) : chalk, yargs
