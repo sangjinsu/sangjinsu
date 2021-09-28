@@ -6,7 +6,7 @@ https://programmers.co.kr/pr/climbplant39
 - 🌱 I’m currently learning Golang, Python, Javascript, Node.js
 - 👯 I’m looking to collaborate on any interesting projects
 - 🤔 Skills : Javascript, Typescript, Node.js, Nest.js
-- :mailbox_with_mail: Email : climbplant39@kakao.com
+- :mailbox_with_mail: Email : `climbplant39@kakao.com`
 
 #### sponsoring
 
