@@ -1,6 +1,6 @@
 ### Hello 👋
 
-프로그래머스 프로필 URL
+프로그래머스 프로필 URL(Github 사용 언어 )  
 https://programmers.co.kr/pr/climbplant39
 
 - 🌱 I’m currently learning Golang, Python, Javascript, Node.js
