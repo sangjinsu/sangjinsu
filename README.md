@@ -7,6 +7,7 @@ https://programmers.co.kr/pr/climbplant39
 - 👯 I’m looking to collaborate on any interesting projects
 - 🤔 Skills : Javascript, Typescript, Node.js, Nest.js
 - :mailbox_with_mail: Email : `climbplant39@kakao.com`
+- [저장소와 프로젝트 정리](https://github.com/jinsuSang/repo-projects)
 
 #### sponsoring
 
