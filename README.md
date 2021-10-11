@@ -1,3 +1,6 @@
+> Software is not a rapidly developing technology. Software, i.e., computer programming, consists of sequence, selection, iteration, and indirection. Nothing more or less.
+> 소프트웨어는 급격히 발전하는 기술이 아니다. 소프트웨어, 즉 컴퓨터 프로그래밍은 순차, 분기, 반복, 참조로 구성된다. 그 이상도 그 이하도 아니다.
+
 ### Hello 👋
 
 프로그래머스 프로필 URL(Github 사용 언어 X)  
