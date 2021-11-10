@@ -48,7 +48,7 @@ notes command line app
 [(inflearn) 스프링 핵심 원리 - 기본편 / 김영한 개발자님](https://www.inflearn.com/certificate/214287-325969-2355584)
   
 [K-MOOC 수업 정리](https://github.com/jinsuSang/kmooc)  
-인공지능의 기초 수료
+인공지능의 기초 수료  
 언어학과 인공지능 수료  
 
 
