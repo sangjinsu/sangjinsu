@@ -7,7 +7,13 @@ https://programmers.co.kr/pr/climbplant39
 
 open collective - nestjs open source baker
 
+---
+
 ![portpolio](https://user-images.githubusercontent.com/48817731/144439002-701bed33-753a-47ba-a842-ba0e0901a625.gif)
+
+[pdf 파일 구글 드라이브](https://drive.google.com/file/d/1nYwl4w2Uiy0Mih6bdEbtxhfq1dfN2Omw/view?usp=sharing)
+
+---
 
 ## Mathmetics and Statistics
 
