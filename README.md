@@ -1,5 +1,7 @@
 ### 안녕하세요 👋
 
+🎵 [Billie Eilish - Come out and play](https://www.youtube.com/watch?v=iPyGdP0kvAU)
+
 프로그래머스 프로필 URL(Github 사용 언어 X)  
 https://programmers.co.kr/pr/climbplant39
 
@@ -9,7 +11,7 @@ open collective - nestjs open source baker
 
 ---
 
-![portpolio](https://user-images.githubusercontent.com/48817731/144439002-701bed33-753a-47ba-a842-ba0e0901a625.gif)
+![potpolio](https://user-images.githubusercontent.com/48817731/145150835-21689797-f5ca-4854-829d-6752175918d1.gif)
 
 [pdf 파일 구글 드라이브](https://drive.google.com/file/d/1AUc7fd9vPckdLjbiVEWkRQymKAgoOa5F/view?usp=sharing)
 
