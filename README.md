@@ -4,10 +4,10 @@
 📖 [Read Book](https://github.com/sangjinsu/book)  
 📓 [졸업 논문 - 히스토그램과 ORB를 이용한 사진 정리 모바일 애플리케이션](https://drive.google.com/file/d/1PHUl9XPJ6_ynw1nvDA3p2fm_bqbzqnSL/view?usp=sharing)
 
-프로그래머스 프로필 URL(Github 사용 언어 X)  
+👍 프로그래머스 프로필 URL(Github 사용 언어 X)  
 https://programmers.co.kr/pr/climbplant39
 
-#### sponsoring
+#### 🏅 sponsoring
 
 open collective - nestjs open source baker
 
@@ -19,7 +19,7 @@ open collective - nestjs open source baker
 
 ---
 
-## Mathmetics and Statistics
+## 📈 Mathmetics and Statistics
 
 [(edwith) 칸아카데미 중학교 3학년 - 통계](https://climbplant39.tistory.com/55?category=992116)  
 [(edwith) 칸아카데미 모두를 위한 선형대수학](https://github.com/jinsuSang/linear-algebra-for-everyone)  
