@@ -1,5 +1,10 @@
 ### 안녕하세요 👋
 
+💻 mbti INTJ  
+별다른 이유 없이 설계, 코딩, 새로운 기술이 너무 재밌고 즐거워서 공부하고 만들어 봅니다.  
+처음에는 낯을 많이 가려서 로봇처럼 보이지만 친해지면 말도 많고 농담도 합니다.  
+
+
 🎵 [Billie Eilish - Come out and play](https://www.youtube.com/watch?v=iPyGdP0kvAU)  
 📖 [Read Book](https://github.com/sangjinsu/book)  
 📓 [졸업 논문 - 히스토그램과 ORB를 이용한 사진 정리 모바일 애플리케이션](https://drive.google.com/file/d/1PHUl9XPJ6_ynw1nvDA3p2fm_bqbzqnSL/view?usp=sharing)
