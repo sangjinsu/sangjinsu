@@ -15,7 +15,7 @@ https://programmers.co.kr/pr/climbplant39
 
 #### 🏅 sponsoring
 
-open collective - nestjs open source baker
+nestjs, fiber
 
 ---
 
