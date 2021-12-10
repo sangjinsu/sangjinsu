@@ -14,6 +14,7 @@
 
 🎵 [Billie Eilish - Come out and play](https://www.youtube.com/watch?v=iPyGdP0kvAU)  
 📖 [Read Book](https://github.com/sangjinsu/book)  
+🎥 [Movie & Series](https://github.com/sangjinsu/movie-and-series)
 📓 [졸업 논문 - 히스토그램과 ORB를 이용한 사진 정리 모바일 애플리케이션](https://drive.google.com/file/d/1PHUl9XPJ6_ynw1nvDA3p2fm_bqbzqnSL/view?usp=sharing)
 
 👍 프로그래머스 프로필 URL(Github 사용 언어 X)  
