@@ -29,10 +29,10 @@ nestjs, fiber
 
 ---
 
-![potpolio](https://user-images.githubusercontent.com/48817731/145150835-21689797-f5ca-4854-829d-6752175918d1.gif)
+![potpolio](![portpolio](https://user-images.githubusercontent.com/48817731/145713744-40aa27dc-9711-46c6-b7a5-51deb9e0f666.gif))
 
 [pdf 파일 구글 드라이브](https://drive.google.com/file/d/1AUc7fd9vPckdLjbiVEWkRQymKAgoOa5F/view?usp=sharing)
-
+💾 Updated 2021.12.12
 ---
 
 ## 📈 Mathmetics and Statistics
