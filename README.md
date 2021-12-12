@@ -29,7 +29,8 @@ nestjs, fiber
 
 ---
 
-![potpolio](![portpolio](https://user-images.githubusercontent.com/48817731/145713744-40aa27dc-9711-46c6-b7a5-51deb9e0f666.gif))
+![portpolio](https://user-images.githubusercontent.com/48817731/145713771-c476968f-198d-4d91-a8fe-97e4a1d60055.gif)
+
 
 [pdf 파일 구글 드라이브](https://drive.google.com/file/d/1AUc7fd9vPckdLjbiVEWkRQymKAgoOa5F/view?usp=sharing)
 💾 Updated 2021.12.12
