@@ -26,11 +26,11 @@ nestjs, fiber
 
 ---
 
-![portpolio](https://user-images.githubusercontent.com/48817731/145713771-c476968f-198d-4d91-a8fe-97e4a1d60055.gif)
+![portpolio](https://user-images.githubusercontent.com/48817731/146683193-276f0cec-58dc-49cf-b72b-6ed8a84a96b1.gif)
 
 
 [pdf 파일 구글 드라이브](https://drive.google.com/file/d/1AUc7fd9vPckdLjbiVEWkRQymKAgoOa5F/view?usp=sharing)
-💾 Updated 2021.12.12
+💾 Updated 2021.12.20
 ---
 
 ## 📈 Mathmetics and Statistics
