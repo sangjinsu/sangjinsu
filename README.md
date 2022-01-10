@@ -27,12 +27,11 @@ https://programmers.co.kr/pr/climbplant39
 nestjs, fiber
 
 ---
-
-![portpolio](https://user-images.githubusercontent.com/48817731/146683193-276f0cec-58dc-49cf-b72b-6ed8a84a96b1.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/48817731/148769738-1ab2ea41-c905-419b-871c-7e89c9949b8e.gif)
 
 
 [pdf 파일 구글 드라이브](https://drive.google.com/file/d/1AUc7fd9vPckdLjbiVEWkRQymKAgoOa5F/view?usp=sharing)
-💾 Updated 2021.12.20
+💾 Updated 2022.01.10
 ---
 
 ## 📈 Mathmetics and Statistics
