@@ -30,7 +30,7 @@ nestjs, fiber
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/48817731/148769738-1ab2ea41-c905-419b-871c-7e89c9949b8e.gif)
 
 
-[pdf 파일 구글 드라이브](https://drive.google.com/file/d/1AUc7fd9vPckdLjbiVEWkRQymKAgoOa5F/view?usp=sharing)
+[pdf 파일 구글 드라이브](https://drive.google.com/file/d/1N9E9UwUOjgFCvdm0it00lt6UOSsgEJTd/view?usp=sharing)
 💾 Updated 2022.01.10
 ---
 
