@@ -13,6 +13,30 @@
 ### ML AI 분야를 공부하는 이유
 ML AI 를 도입한 서비스 (자연어처리, 컴퓨터 비전)를 개발 할 때 해당 분야에 대한 기초 지식을 가지고 있어야 연구 조직과 소통하여 서비스에 최적화된 구조를 만듭니다 그리고 언제든지 자연어 처리와 컴퓨터 비전이 합쳐진 서비스, 복합 서비스가 사용자를 위해 개발되고 발전할 것이라고 예측합니다 
 
+---
+<div align=center>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-2E64FE?style=flat-square&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Django-FFE400?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  
+</div>
+
+---
+
 
 🎵 [Billie Eilish - Come out and play](https://www.youtube.com/watch?v=iPyGdP0kvAU)  
 📖 [Read Book](https://github.com/sangjinsu/book)  
