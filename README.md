@@ -43,6 +43,8 @@ ML AI 를 도입한 서비스 (자연어처리, 컴퓨터 비전)를 개발 할 
 🎥 [Movie & Series](https://github.com/sangjinsu/movie-and-series)  
 📓 [졸업 논문 - 히스토그램과 ORB를 이용한 사진 정리 모바일 애플리케이션](https://drive.google.com/file/d/1PHUl9XPJ6_ynw1nvDA3p2fm_bqbzqnSL/view?usp=sharing)
 
+[베르의 개발톡 - 게임 서버 & 네트워크 개론](https://youtu.be/Wn-1QY2EeVg)
+
 👍 프로그래머스 프로필 URL(Github 사용 언어 X)  
 https://programmers.co.kr/pr/climbplant39
 
