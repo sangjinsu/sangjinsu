@@ -4,7 +4,7 @@
 - C#, Unity 게임 앱 제작
 - Golang 서버 최적화 
 - DevOps 인프라 구축
-- Rust 공부
+- Rust (Carbon) 공부
 
 💻 mbti INTJ  
 
