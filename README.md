@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 ## Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjinsu&exclude_repo=JaeEon-Ryu/BeaM4,openCVFeatureMatchingList,opencvFeatureMatching,jinsuSang,numpy-basic,recommendation-system,personalized-recommendation-system&langs_count=6&layout=compact&hide=css,html)](https://github.com/jinsuSang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjinsu&exclude_repo=JaeEon-Ryu/BeaM4,openCVFeatureMatchingList,opencvFeatureMatching,jinsuSang,numpy-basic,recommendation-system&langs_count=10&layout=compact&hide=css,html,jupyter%20notebook)](https://github.com/jinsuSang/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjinsu&show_icons=true&theme=dracula)
 #### 백준 알고리즘
