@@ -91,8 +91,9 @@ Here are some ideas to get you started:
 
 ## Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjinsu&exclude_repo=JaeEon-Ryu/BeaM4,openCVFeatureMatchingList,opencvFeatureMatching,jinsuSang,numpy-basic,recommendation-system)](https://github.com/jinsuSang/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjinsu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjinsu&exclude_repo=JaeEon-Ryu/BeaM4,openCVFeatureMatchingList,opencvFeatureMatching,jinsuSang,numpy-basic,recommendation-system&langs_count=10&layout=compact)](https://github.com/jinsuSang/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjinsu&show_icons=true&theme=dracula)
 #### 백준 알고리즘
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=climbplant39)](https://solved.ac/climbplant39)
