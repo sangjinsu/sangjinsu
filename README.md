@@ -7,7 +7,7 @@
 - Rust (Carbon) 공부
 
 # Notion 2022.08.20~
-[notion](https://snagjinsu.notion.site/Sangjinsu-NOTION-27e4d56139d8423da14e0a23ea74a7af)
+### [NOTION](https://snagjinsu.notion.site/Sangjinsu-NOTION-27e4d56139d8423da14e0a23ea74a7af)
 
 💻 mbti INTJ  
 
@@ -54,13 +54,6 @@
 📓 [졸업 논문 - 히스토그램과 ORB를 이용한 사진 정리 모바일 애플리케이션](https://drive.google.com/file/d/1PHUl9XPJ6_ynw1nvDA3p2fm_bqbzqnSL/view?usp=sharing)
 
 [베르의 개발톡 - 게임 서버 & 네트워크 개론](https://youtu.be/Wn-1QY2EeVg)
-
-👍 프로그래머스 프로필 URL(Github 사용 언어 X)  
-https://programmers.co.kr/pr/climbplant39
-
-#### 🏅 sponsoring
-
-nestjs, fiber
 
 ---
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/48817731/154838713-cea082fb-2a47-49cf-a80d-40cab968bf61.gif)
