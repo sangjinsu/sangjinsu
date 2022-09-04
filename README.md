@@ -3,8 +3,9 @@
 # 2022 목표
 - C#, Unity 게임 앱 제작
 - Golang 서버 최적화 
-- DevOps 인프라 구축
-- Rust (Carbon) 공부
+- DevOps 인프라 구축 (도커)
+- Rust 공부
+- MySQL, MongoDB
 
 # Notion 2022.08.20~
 ### [NOTION](https://snagjinsu.notion.site/Sangjinsu-NOTION-27e4d56139d8423da14e0a23ea74a7af)
