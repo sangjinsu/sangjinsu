@@ -4,9 +4,10 @@
 - Spring Boot, Rust
 - python fastapi
 
-# 목표와 시간광리
-### [NOTION 페이지]([https://snagjinsu.notion.site/Sangjinsu-NOTION-27e4d56139d8423da14e0a23ea74a7af](https://snagjinsu.notion.site/Time-and-Goal-282bbebe73b34b7ba19044b9c763cd43))
+# 목표와 시간관리
+### [NOTION 페이지](https://snagjinsu.notion.site/Time-and-Goal-282bbebe73b34b7ba19044b9c763cd43)
 
+---
 💻 mbti INTJ  
 
 > 저는 말재주가 없습니다. 안절부절 못하고 성격도 이상해요. 창문으로 뛰어내릴 수도 있죠. 하지만 이 회사에 대한 확신으로 죽을 각오로 일할거예요. - 실리콘 밸리 시즌 5 에피소드 2 "리처드 헨드릭스가 직원들에게 신임을 얻을 때"
