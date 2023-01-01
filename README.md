@@ -3,7 +3,7 @@
 # 2023 목표
 ### 서버 개발
 - Spring Boot, Rust 
-- python Fastapi
+- Python FastAPI
 ### 앱 개발
 - Flutter 
 
