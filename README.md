@@ -5,6 +5,7 @@
 - python fastapi
 
 # 목표와 시간관리
+5년 계획, 2년 계획, 2023 계획, 월간 및 주간 계획
 ### [NOTION 페이지](https://snagjinsu.notion.site/Time-and-Goal-282bbebe73b34b7ba19044b9c763cd43)
 
 ---
