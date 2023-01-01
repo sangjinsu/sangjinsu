@@ -1,11 +1,11 @@
 ### 안녕하세요 👋
 
 # 2023 목표
-- C#, Rust
+- Spring Boot, Rust
 - python fastapi
 
-# Notion 2022.08.20~
-### [NOTION](https://snagjinsu.notion.site/Sangjinsu-NOTION-27e4d56139d8423da14e0a23ea74a7af)
+# 목표와 시간광리
+### [NOTION 페이지]([https://snagjinsu.notion.site/Sangjinsu-NOTION-27e4d56139d8423da14e0a23ea74a7af](https://snagjinsu.notion.site/Time-and-Goal-282bbebe73b34b7ba19044b9c763cd43))
 
 💻 mbti INTJ  
 
