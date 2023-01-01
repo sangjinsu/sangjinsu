@@ -1,8 +1,11 @@
 ### 안녕하세요 👋
 
 # 2023 목표
-- Spring Boot, Rust
-- python fastapi
+### 서버 개발
+- Spring Boot, Rust 
+- python Fastapi
+### 앱 개발
+- Flutter 
 
 # 목표와 시간관리
 5년 계획, 2년 계획, 2023 계획, 월간 및 주간 계획
