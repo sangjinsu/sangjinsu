@@ -2,10 +2,13 @@
 
 # 2023 목표
 ### 서버 개발
-- Spring Boot, Rust 
+- Golang 
 - Python FastAPI
 ### 앱 개발
-- Flutter 
+- Flutter
+### DEVOPS 
+- 도커, 쿠버네티스
+- 인프라
 
 ---
 💻 mbti INTJ  
