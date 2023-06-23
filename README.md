@@ -4,6 +4,7 @@
 ### 서버 개발
 - Golang 
 - Python FastAPI
+- NodeJs NestJS
 ### 앱 개발
 - Flutter
 ### DEVOPS 
