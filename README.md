@@ -16,7 +16,7 @@
 [방어적 프로그래밍 - 포프TV](https://youtu.be/yBgvkO-GtFk)
 
 강의 수료 리스트  
-- 2023
+- [2023](https://github.com/sangjinsu/lecture-review/blob/main/2023.md)
 
 
 
