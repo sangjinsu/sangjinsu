@@ -27,6 +27,7 @@
   - Terraform 공부하기
   - Helm 공부하기
 - Kafka 공부하기
+- 프로그래머스 코딩필수역량인증시험 
     
 ## In Progress
 
