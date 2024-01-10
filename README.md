@@ -15,12 +15,13 @@ https://velog.io/@sangjinsu/posts
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
-- DevOps : K8S, Docker, Traefik, [OpenStack](https://ko.wikipedia.org/wiki/%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D), [Ceph](https://ko.wikipedia.org/wiki/Ceph)
+- DevOps : K8S, Docker
 - Golang : Gin, Fiber
 - JS/TS  : SvelteKit, NestJS
 - Python : FastAPI
 - Java : Quarkus
 - Rust : Axum  
+- Data : Kafka
 
 ## To Do
 
