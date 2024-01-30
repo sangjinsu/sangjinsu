@@ -17,7 +17,7 @@ https://velog.io/@sangjinsu/posts
 
 - DevOps : K8S, Docker, Traefik
 - Golang : Gin, Fiber
-- JS/TS  : SvelteKit, NestJS
+- JS/TS  : SvelteKit, NestJS, NextJS
 - Python : FastAPI
 - Java : Quarkus
 - Rust : Axum  
