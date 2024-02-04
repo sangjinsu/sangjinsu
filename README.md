@@ -49,4 +49,5 @@ https://velog.io/@sangjinsu/posts
 - 삼성 소프트웨어 청년 아카데미 6기 - [너와함께라면 (라면 추천 웹 서비스)](https://github.com/sangjinsu/ramen)
 - Golang 모듈 - [터미널 및 콘솔 출력 꾸며주는 모듈](https://github.com/sangjinsu/chalk)
 - 노마드 코더 - [트위트 클론 리액트](https://github.com/sangjinsu/twitter-clone)
+- 노마드 코더 - [Next.js 시작하기](https://github.com/sangjinsu/learn-nextjs14)
 - 생활코딩 - [next.js 튜토리얼](https://github.com/sangjinsu/nextapp)
