@@ -25,7 +25,6 @@ https://velog.io/@sangjinsu/posts
 
 ## To Do
 
-- Quarkus 서버 만들기
 - Axum 서버 만들기
 - 패스트캠퍼스 Kubernetes 와 Docker로 한 번에 끝내는 컨테이너 기반 MSA
   - Terraform 공부하기
@@ -41,6 +40,8 @@ https://velog.io/@sangjinsu/posts
 - 외워서 끝내는 네트워크 핵심이론 - 기초 강의 듣기
 
 ## Done 
+
+- Quarkus 서버 만들기
 - 패스트캠퍼스 Kubernetes 와 Docker로 한 번에 끝내는 컨테이너 기반 MSA
   - Docker 공부하기
   - K8S 공부하기
