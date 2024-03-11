@@ -1,8 +1,5 @@
 # 안녕하세요 👋
 
-외강내유 서버 개발자의 외강내강 성장기 블로그
-https://velog.io/@sangjinsu/posts
-
 ## Interest 
 
 ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
