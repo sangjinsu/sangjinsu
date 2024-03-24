@@ -1,5 +1,10 @@
 # 안녕하세요 👋
 
+개발에 집중하는 환경을 만들고, 이슈를 줄이기위한 환경을 만들기 위해 노력하고 있습니다.
+
+블로그 링크
+https://velog.io/@sangjinsu/posts
+
 ## Interest 
 
 ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
