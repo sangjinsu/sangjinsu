@@ -14,32 +14,18 @@ https://velog.io/@sangjinsu/posts
 ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
 - DevOps : K8S, Docker, Traefik
 - Golang : Gin, Fiber
 - JS/TS  : SvelteKit, NestJS, NextJS
 - Python : FastAPI
-- Java : Quarkus
-- Rust : Axum  
 - Data : Kafka
 
 ## To Do
 
-- Axum 서버 만들기
-- 패스트캠퍼스 Kubernetes 와 Docker로 한 번에 끝내는 컨테이너 기반 MSA
-  - Terraform 공부하기
-  - Helm 공부하기
-- Kafka 공부하기
-- 프로그래머스 코딩필수역량인증시험 
     
 ## In Progress
-
-- 데이터 설정 탈출기 사내 프로젝트
-- EKS 사내 환경 구축 프로젝트
-- AWS Certified Cloud Practitioner 자격증 취득하기
-- 외워서 끝내는 네트워크 핵심이론 - 기초 강의 듣기
 
 ## Done 
 
@@ -54,3 +40,4 @@ https://velog.io/@sangjinsu/posts
 - 노마드 코더 - [트위트 클론 리액트](https://github.com/sangjinsu/twitter-clone)
 - 노마드 코더 - [Next.js 시작하기](https://github.com/sangjinsu/learn-nextjs14)
 - 생활코딩 - [next.js 튜토리얼](https://github.com/sangjinsu/nextapp)
+- Gord : GORM을 활용한 Go의 제네릭 레포지토리 패턴으로 CRUD 작업을 지원 모듈
