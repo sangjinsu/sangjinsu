@@ -20,7 +20,6 @@ https://velog.io/@sangjinsu/posts
 - Golang : Gin, Fiber
 - JS/TS  : SvelteKit, NestJS, NextJS
 - Python : FastAPI
-- Data : Kafka
 
 ## To Do
 
