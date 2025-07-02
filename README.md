@@ -15,18 +15,18 @@
 
 <!-- 기술 아이콘 -->
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **DevOps**: Kubernetes, Docker, Helm, GitHub Actions, ArgoCD, Terraform  
-- **Golang**: Gin, Fiber, gRPC, GORM
+- **Golang**: Gin, Fiber, gRPC, GORM  
 - **JavaScript/TypeScript**: SvelteKit, NestJS, Next.js  
-- **Python**: FastAPI
-- **Database**: MySQL, Redis
+- **Python**: FastAPI  
+- **Database**: MySQL, Redis  
 
 ---
 
@@ -35,31 +35,39 @@
 현재 아래 프로젝트와 학습을 진행하고 있습니다.
 
 - 🎯 **리더보드 서버 개발**
-  - Go + Fiber + Redis + gRPC 기반의 고성능 랭킹 서버
-  - Minikube 환경에서의 성능 테스트와 배포 자동화 실험
+  - Go + Fiber + Redis + gRPC 기반 고성능 랭킹 서버
+  - Minikube 환경에서의 성능 테스트 및 배포 자동화 실험
 
 - 🤖 **LLM 기반 NPC 만들기**
-  - WebLLM 및 음성 입력 기반으로 동작하는 TRPG형 추리 게임 NPC 개발
-  - 에이전트 간 대화, 실시간 프롬프트 리팩토링 등 시나리오 기반 설계 실험
+  - WebLLM 및 음성 입력 기반 TRPG형 추리 게임 개발
+  - AI 에이전트 간의 상호작용 및 실시간 시나리오 변화 처리 실험
 
 - 🧠 **알고리즘 학습 루틴**
-  - 하루 3문제, 주간 21문제 단위로 백준 문제 풀이
-  - 기본기 복습 및 문제 해결 감각 회복 중
+  - 하루 3문제, 주간 21문제 목표로 백준 풀이 진행
+  - 문제 해결 능력 향상 및 사고 훈련 지속
 
 - 🧪 **게임 분석: 쿠키런 마녀의 성**
-  - 캐주얼 퍼즐 게임 구조 분석
-  - 레벨 디자인, 컨텐츠 배치, UX 흐름 기록 및 분석
+  - 레벨 디자인, 퍼즐 구조, UX 흐름 분석
+  - 게임 밸런스와 콘텐츠 구성 방식 연구 중
 
 ---
 
 ## ✅ Done Projects
 
-- [Go 프로젝트 CLI 생성기 (Python)](https://github.com/sangjinsu/go-project-cli)
-- [맥주 큐레이팅 웹 앱](https://github.com/sangjinsu/macju?tab=readme-ov-file) - SSAFY 6기  
-- [너와함께라면 (라면 추천 서비스)](https://github.com/sangjinsu/ramen) - SSAFY 6기  
-- [chalk](https://github.com/sangjinsu/chalk) – 터미널 출력 색상 모듈 (Golang)
-- [gord](https://github.com/sangjinsu/gord) – GORM 기반 제네릭 레포지토리
-  
+- [🛠️ Go 프로젝트 CLI 생성기 (Python)](https://github.com/sangjinsu/go-project-cli)
+- [🍻 맥주 큐레이팅 웹 앱 (SSAFY 6기)](https://github.com/sangjinsu/macju?tab=readme-ov-file)
+- [🍜 너와함께라면 (라면 추천 서비스)](https://github.com/sangjinsu/ramen)
+- [🎨 chalk](https://github.com/sangjinsu/chalk) – 터미널 출력 색상 모듈 (Golang)
+- [🧱 gord](https://github.com/sangjinsu/gord) – GORM 기반 제네릭 레포지토리 패턴
+
+---
+
+## 📊 GitHub & 알고리즘 Stats
+
+![Jinsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjinsu&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjinsu&layout=compact&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangjinsu9)](https://solved.ac/sangjinsu9)
+
 ---
 
 🙋‍♂️ 다양한 도메인에 관심이 많습니다.  
