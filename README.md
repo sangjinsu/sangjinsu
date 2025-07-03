@@ -65,7 +65,7 @@
 ## 📊 GitHub & 알고리즘 Stats
 
 ![Jinsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjinsu&show_icons=true&theme=highcontrast)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjinsu&layout=donut&theme=dracula&hide=c++,html,css,jupyter%20notebook)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangjinsu9)](https://solved.ac/sangjinsu9)
 
 ---
