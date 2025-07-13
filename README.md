@@ -52,7 +52,7 @@
  
 - 🧵 Scala 언어 학습
   - 함수형 프로그래밍 패러다임과 객체지향의 결합 방식 이해
-	- ZIO, Akka, Play Framework 등 주요 생태계 도구 탐색 중
+  - ZIO, Akka, Play Framework 등 주요 생태계 도구 탐색 중
   - 게임 서버 및 대규모 분산 처리 시스템 적용 가능성 검토
 
 ---
