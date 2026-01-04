@@ -4,8 +4,8 @@
 문제를 단순히 해결하는 데 그치지 않고, *구조적인 개선과 자동화*를 통해 팀 전체의 생산성을 높이는 것을 목표로 합니다.  
 서비스를 개발하며 생기는 궁금증과 실험들을 블로그에 꾸준히 정리하고 있습니다.
 
-📘 **블로그**  
-[https://velog.io/@sangjinsu/posts](https://velog.io/@sangjinsu/posts)
+📘 **브랜드 사이트**  
+[Brand Site](https://sangjinsu.dev)
 
 ---
 
