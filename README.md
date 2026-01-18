@@ -52,7 +52,8 @@
 
 ## 📊 GitHub & 알고리즘 Stats
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangjinsu9)](https://solved.ac/sangjinsu9)
+![LeetCode Stats](https://leetcard.jacoblin.cool/FqWACkZ8Xt?theme=dark&font=Noto%20Sans%20KR)
+
 
 ---
 
