@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub & 알고리즘 Stats
+## 📊 GitHub & 알고리즘 Stats ![LeetCode](https://img.shields.io/badge/LeetCode-FqWACkZ8Xt-orange?style=flat&logo=leetcode)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FqWACkZ8Xt?theme=dark&font=Noto%20Sans%20KR)
 
