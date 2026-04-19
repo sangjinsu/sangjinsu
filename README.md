@@ -38,7 +38,6 @@ Go로 게임 서버를 만들다가, 지금은 인프라 운영과 장애 대응
 ---
 
 ### Stats
-
 <p>
-  <img src="https://leetcard.jacoblin.cool/FqWACkZ8Xt?theme=dark&font=Fira+Code&border=0" height="150" />
+  <img src="https://leetcard.jacoblin.cool/FqWACkZ8Xt?theme=dark&font=Fira+Code&border=0&ext=heatmap" height="220" />
 </p>
