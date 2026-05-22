@@ -1,8 +1,5 @@
 ## 상진수
 
-Go로 게임 서버를 만들다가, 지금은 인프라 운영과 장애 대응을 주로 합니다.  
-쓸만한 도구가 없으면 직접 만드는 편입니다.
-
 [![Blog](https://img.shields.io/badge/blog-velog-20C997?style=flat-square)](https://velog.io/@sangjinsu)
 [![Site](https://img.shields.io/badge/site-sangjinsu.dev-000?style=flat-square)](https://sangjinsu.dev)
 
